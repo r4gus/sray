@@ -1,0 +1,11 @@
+[package]
+name = "sray"
+version = "0.1.0"
+authors= ["David Pierre Sugar <david@thesugar.de>"]
+edition = "2018"
+description = "A ray tracer build from scratch."
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
