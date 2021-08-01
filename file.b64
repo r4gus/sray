@@ -1,14 +1,3 @@
-//! # Sray
-//!
-//! A simple ray tracer.
-//!
-//! ## Left-handed coordinate system
-//!
-//! This ray tracer uses the __left-handed coordinate system__, i.e. the x, y and z axes
-//! point right, up and forward, respectively.
-//!
-//! <div>
-//! <img height="300" width="300" src="data:image/png;base64,
 //! iVBORw0KGgoAAAANSUhEUgAABF4AAAPJCAYAAAArgOyKAAAABHNCSVQICAgIfAhkiAAAABl0RVh0
 //! U29mdHdhcmUAZ25vbWUtc2NyZWVuc2hvdO8Dvz4AACAASURBVHic7N17lF1lffDx35lL7gn3m0Ru
 //! gmClaGrFV8OLgBQVKCRBTCZcXhqgVrSUBcUmaKHYcjGpyqVUUSleWttS+lpACGCLN7qk2pcScXEz
@@ -241,6 +230,3 @@
 //! ACAivAAAAABEhBcAAACAiPACAAAAEBFeAAAAACLCCwAAAEBEeAEAAACICC8AAAAAEeEFAAAAICK8
 //! AAAAAESEFwAAAICI8AIAAAAQEV4AAAAAIsILAAAAQER4AQAAAIgILwAAAAAR4QUAAAAgIrwAAAAA
 //! RIQXAAAAgIjwAgAAABARXgAAAAAiwgsAAABARHgBAAAAiPwEyHNHhJ0fNj8AAAAASUVORK5CYII=
-//! ">
-//! </div>
-pub mod math;
